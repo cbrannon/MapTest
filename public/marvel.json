@@ -4,6 +4,9 @@
  "children": [
   {
    "name": "Heroes",
+   "link": "http://marvel.com/characters/54/spider-man",
+   "img":  "http://career.gatech.edu/sites/default/files/gt_buzz_logo.gif",
+   "size": 40000,
    "children": [
     {
       "hero": "Spider-Man",
@@ -324,6 +327,9 @@
   },
   {
    "name": "Villains",
+   "link": "http://marvel.com/characters/54/spider-man",
+   "img":  "https://pbs.twimg.com/profile_images/813584000082214912/5U3iZVs-.jpg",
+   "size": 40000,
    "children": [
     {
       "hero": "Dr. Doom",
@@ -378,6 +384,9 @@
   },
   {
    "name": "Teams",
+   "link": "http://marvel.com/characters/54/spider-man",
+   "img":  "https://pbs.twimg.com/profile_images/552955646346145793/DKlUDGsR.png",
+   "size": 40000,
    "children": [
     {
       "hero": "Avengers",
